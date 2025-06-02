@@ -7,7 +7,7 @@ Passionate full-stack engineer with 9+ years of hands-on experience in developin
 
 ⭐ Backend (Node.js, Ruby on Rails, Django, Laravel, MongoDB, Mysql, PostgreSql)
 
-⭐ Blockchain (Smart contract, web3.js, ethers.js, ERC 20, ERC 721, ERC 1155)
+⭐ Blockchain (Solana, EVMs, Sui, Cardano, Web3, Defi, IDO)
 
 ⭐ Android and iOS App development (React Native, Flutter, Android Java, Swift)
 
