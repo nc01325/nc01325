@@ -22,7 +22,7 @@ Best Regards.
 
 # 🚩 GitHub Stats :
 <div style="display: flex; flex-flow: row wrap; gap: 30px;">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nc0325&show_icons=true&locale=en&layout=compact" alt="nc0325" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nc0325&" alt="nc0325" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nc01325&show_icons=true&locale=en&layout=compact" alt="nc01325" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nc01325&" alt="nc01325" /></p>
 </div>
 
